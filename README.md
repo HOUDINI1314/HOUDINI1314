@@ -51,7 +51,7 @@
 
 Kotlin · Jetpack Compose · Qwen · 开源
 
-面向 OriginOS 的饮食与训练记录。本地统计三大营养素、有氧和力量消耗、热量缺口；用通义千问做一句话记餐、拍照识餐和针对个人数据的助手。
+面向 OriginOS 的饮食与训练记录。本地统计三大营养素、有氧和力量消耗、热量缺口；用通义千问做一句话记餐、拍照识餐和针对个人数据的助手。这个是我的减肥助手的演示视频，感兴趣的面试官也可以看看：https://www.bilibili.com/video/BV1oAuS6dE4R/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a27efab372adbf20f4426f4f0769617d
 
 ### 多车轨迹预测对抗攻击检测
 
