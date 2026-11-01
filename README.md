@@ -8,8 +8,6 @@
 
 正在寻找 **AI 算法 · 大模型应用 · Agent 开发** 岗位
 
-[2419314691@qq.com](mailto:2419314691@qq.com) · 17882263391 · 江苏沭阳
-
 </div>
 
 ---
@@ -75,7 +73,5 @@ Kotlin · Jetpack Compose · Qwen · 开源
 | 2020.09 — 2024.06 | 西南交通大学（211 / 双一流） | 数学与应用数学 | 学士 |
 
 ## 联系
-
-校招和实习沟通可以直接发邮件：[2419314691@qq.com](mailto:2419314691@qq.com)，或电话 17882263391。
 
 代码与演示见 [smart-travel-agent](https://github.com/HOUDINI1314/smart-travel-agent) 和 [DietCoach](https://github.com/HOUDINI1314/DietCoach)。
